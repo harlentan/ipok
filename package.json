@@ -1,0 +1,30 @@
+{
+  "name": "ipok",
+  "version": "1.0.0",
+  "description": "show your ip address command line",
+  "main": "index.js",
+  "bin": {
+    "ipok": "index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/harlentan/ipok.git"
+  },
+  "keywords": [
+    "command",
+    "ip",
+    "cli",
+    "myip",
+    "showip",
+    "commandline"
+  ],
+  "author": "harlen.tan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/harlentan/ipok/issues"
+  },
+  "homepage": "https://github.com/harlentan/ipok#readme"
+}
